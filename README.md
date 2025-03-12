@@ -6,6 +6,8 @@
 - **Token Detection**: Identifies API keys and secrets from a customizable list of patterns (`regex.json`).
 - **Validation**: Optionally validates tokens using API calls .
 - **Manual Testing**: Provides `curl` commands to manually verify tokens.
+- Searches for these kind of tokens **GitHub Personal Access Token (Classic),Stripe Standard API Key,OpenAI API Key,
+  Facebook Access Token,Google API Key,Slack Bot Access Token,Heroku API Key,Mailgun API Key,Mailchimp API Key,PayPal Client Secret**.
 
 ## Installation
 
