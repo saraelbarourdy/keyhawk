@@ -9,11 +9,12 @@
 
 ## Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/tokensnipe.git
-   cd tokensnipe
-   pip install -r requirements.txt
+**Clone the Repository**:
+```bash
+git clone https://github.com/yourusername/tokensnipe.git
+cd tokensnipe
+pip install -r requirements.txt
+```
 
 ## Usage
 ```bash
