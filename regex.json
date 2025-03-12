@@ -1,0 +1,12 @@
+[
+  {"name": "GitHub Personal Access Token (Classic)", "regex": "ghp_[a-zA-Z0-9]{36}"},
+  {"name": "Facebook Access Token", "regex": "EAACEdEose0cBA[0-9A-Za-z]{20,50}"},
+  {"name": "Google API Key", "regex": "AIza[0-9A-Za-z-_]{35}"},
+  {"name": "Stripe Standard API Key", "regex": "sk_(live|test)_[a-zA-Z0-9]{24}"},
+  {"name": "Slack Bot Access Token", "regex": "xoxb-[0-9]{10}-[0-9]{10}-[a-zA-Z0-9]{24}"},
+  {"name": "Heroku API Key", "regex": "[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}"},
+  {"name": "OpenAI API Key", "regex": "sk-[a-zA-Z0-9]{48}"},
+  {"name": "Mailgun API Key", "regex": "key-[a-zA-Z0-9]{32}"},
+  {"name": "Mailchimp API Key", "regex": "[0-9a-f]{32}-us[0-9]{1,2}"},
+  {"name": "PayPal Client Secret", "regex": "E[a-zA-Z0-9]{31}"}
+]
